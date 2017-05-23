@@ -1,10 +1,16 @@
 {
-  "name": "node",
+  "name": "nodejs",
   "version": "1.0.0",
   "description": "",
-  "main": "server/server.js",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/svkdotcloud/nodejs.git"
+  },
   "author": "",
   "license": "ISC",
-  "dependencies": {
-  }
+  "bugs": {
+    "url": "https://github.com/svkdotcloud/nodejs/issues"
+  },
+  "homepage": "https://github.com/svkdotcloud/nodejs#readme"
 }
